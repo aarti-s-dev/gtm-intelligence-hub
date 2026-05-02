@@ -1,0 +1,12 @@
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables (where API keys live)
+.env
+*.log
+
+# Ignore temporary editor files
+*.swp
+.vscode/
+.idea/
