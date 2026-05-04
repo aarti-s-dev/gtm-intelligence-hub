@@ -7,11 +7,14 @@ AI-powered Competitive Intelligence system featuring an executive dashboard, aut
 
 ## 📸 System Gallery
 
-*GTM Excecutive Command Center
+GTM Excecutive Command Center
 <img width="2855" height="1530" alt="image" src="https://github.com/user-attachments/assets/c268e733-3b7f-4a57-9ebe-b3245dc7e189" />
 
+Dashboard Pages 
+<img width="2861" height="1540" alt="image" src="https://github.com/user-attachments/assets/55ce7f6b-62a2-405c-b50d-106b0160d382" />
 
-
+Threat Levels & Developer Ecosystem Impact Grid
+<img width="2850" height="1536" alt="image" src="https://github.com/user-attachments/assets/90ec822c-2e05-4c3e-8833-22da44390507" />
 
 ---
 
