@@ -40,6 +40,18 @@ In hyper-competitive AI and SaaS sectors, GTM teams are often overwhelmed by "ma
 *   **Strategic Impact Tagging:** Automatically identifies if a move affects Pricing, Brand, or Developer Ecosystems.
 *   **Zero-Loss Data Pipeline:** Uses strict JSON schema enforcement to bridge LLM outputs with relational database fields.
 
+
+---
+
+## 📂 Repository Structure
+
+*   **`README.md`**: Product overview and executive summary.
+*   **`PRD.md`**: Detailed Product Requirements Document and functional specs.
+*   **`Case-Study.md`**: Deep dive into architectural decisions, model selection, and UI/UX philosophy.
+*   **`prompts/`**: Directory containing the `system_prompt.txt` used to power the custom AI agent.
+*   **`.gitignore`**: Standard security protocols for environment variables and system files.
+
+
 ---
 
 ## 🏗 System Architecture Flowchart
@@ -51,12 +63,6 @@ graph TD
     C --> E[Executive Command Center]
     D --> E[Visual Analytics & Dashboards]
     E --> F[Sales Enablement & Executive Action]
----
 
-## 📂 Repository Structure
 
-*   **`README.md`**: Product overview and executive summary.
-*   **`PRD.md`**: Detailed Product Requirements Document and functional specs.
-*   **`Case-Study.md`**: Deep dive into architectural decisions, model selection, and UI/UX philosophy.
-*   **`prompts/`**: Directory containing the `system_prompt.txt` used to power the custom AI agent.
-*   **`.gitignore`**: Standard security protocols for environment variables and system files.
+
